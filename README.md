@@ -6,10 +6,10 @@
 Installation :
 
 cfx-server-data/resources/[gameplay]/
+
 ![image](https://user-images.githubusercontent.com/83259991/164367907-fdcb6cb0-ee0a-4059-9a8f-893e3f1dafd8.png)
+
+
 remplacez le fichier chat par okokChat
+
 ![image](https://user-images.githubusercontent.com/83259991/164367879-2e6a976e-0310-4bc4-b370-ca7758880d91.png)
-
-![d5a50e6cd0ddb05a153a3f15bad98f8b6ac2730f](https://user-images.githubusercontent.com/83259991/164367981-adb9753b-5087-43cb-87fa-dc2b9a61f84a.png)
-
-# okokChat
